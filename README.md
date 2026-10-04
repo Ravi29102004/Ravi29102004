@@ -1,41 +1,321 @@
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi29102004&label=Profile%20views&color=0e75b6&style=flat" alt="ravi29102004" /> </p>
+<h3 align="center">
+Java Backend Developer • Spring Boot • Microservices • DSA
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi29102004" alt="ravi29102004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ravi62067r" target="blank"><img src="https://img.shields.io/twitter/follow/ravi62067r?logo=twitter&style=for-the-badge" alt="ravi62067r" /></a> </p>
-
-- 🔭 I’m currently working on [TechieSpot](http://localhost:3000/)
-
-- 🌱 I’m currently learning **React.Js,DSA**
-
-- 💬 Ask me about **JavaScript,HTML,CSS,Java,DSA**
-
-- 📫 How to reach me **ravi62067888b@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZpriJikBY2VrWOUIhPeIFtRVG_9XRxlT/view?usp=sharing](https://drive.google.com/file/d/1ZpriJikBY2VrWOUIhPeIFtRVG_9XRxlT/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ravi62067r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi62067r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravi-ranjan-768007237s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-ranjan-768007237s" height="30" width="40" /></a>
-<a href="https://fb.com/ravi620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi620" height="30" width="40" /></a>
-<a href="https://instagram.com/raviranjan3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviranjan3142" height="30" width="40" /></a>
-<a href="https://www.behance.net/ravi620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ravi620" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@raviranjan-ew7xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raviranjan-ew7xg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravi62067888b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravi62067888b" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ravi62067888b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ravi62067888b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravi620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravi620" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ravi620fwz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravi620fwz1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravi29102004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravi29102004&theme=algolia&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi29102004&show_icons=true&locale=en&layout=compact" alt="ravi29102004" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi29102004&show_icons=true&locale=en" alt="ravi29102004" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi29102004&" alt="ravi29102004" /></p>
+I'm a **Java Backend Developer in progress**, focused on building scalable and production-oriented backend systems using the **Spring ecosystem**.
+
+My current journey is evolving from **Spring Boot Monoliths → Microservices Architecture**, while continuously improving my **Data Structures & Algorithms** through daily learning and problem-solving practice.
+
+* 🔭 **Currently working on:** `Fitness-Microservice` — converting my Fitness Monolith into a microservices-based backend
+* 🌱 **Currently learning:** Spring Boot Microservices, Spring Cloud, API Gateway, Eureka, OpenFeign, Resilience4j, Kafka, Redis, Docker, Kubernetes & System Design
+* 🧠 **DSA:** Learning and practicing DSA daily with a focus on problem solving, patterns and interview preparation
+* 💻 **Backend focus:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, PostgreSQL
+* ☁️ **Cloud & DevOps:** Docker, Docker Hub, Render, Neon PostgreSQL, Linux and deployment fundamentals
+* 🎯 **Career goal:** Java Backend / Software Engineer
+* ⚡ **Interests:** Backend Engineering, Distributed Systems, Microservices, System Design & Problem Solving
+
+---
+
+## 🛠️ Ask Me About
+
+**Java • Spring Boot • Spring Security • REST APIs • JPA/Hibernate • PostgreSQL • Docker • Git/GitHub • Backend Development • Microservices Basics • DSA • OOP • DBMS**
+
+I'm also actively learning:
+
+**Kafka • Redis • Eureka • API Gateway • OpenFeign • Resilience4j • Kubernetes • System Design**
+
+---
+
+## 🔥 Current Project
+
+### 🏋️ Fitness Microservices
+
+Currently transforming my **Fitness Monolith** into a scalable **Microservices Architecture**.
+
+```text
+                     ┌──────────────────┐
+                     │      Client      │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │   API Gateway    │
+                     └────────┬─────────┘
+                              │
+                     ┌────────▼────────┐
+                     │ Eureka Discovery│
+                     └────────┬────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+       ┌──────────┐     ┌──────────┐     ┌──────────┐
+       │   User   │     │ Fitness  │     │  Auth    │
+       │ Service  │     │ Service  │     │ Service  │
+       └────┬─────┘     └────┬─────┘     └────┬─────┘
+            │                │                │
+            ▼                ▼                ▼
+         Database         Database         Database
+
+                    Kafka / Redis
+                         │
+                         ▼
+               Async Communication
+```
+
+### Microservices concepts I'm working with
+
+* 🔎 Service Discovery — **Eureka**
+* 🚪 API Routing — **Spring Cloud Gateway**
+* 🔗 Service Communication — **OpenFeign**
+* 🛡️ Fault Tolerance — **Resilience4j**
+* 📨 Event Streaming — **Apache Kafka**
+* ⚡ Caching — **Redis**
+* 🐳 Containerization — **Docker**
+* ☸️ Orchestration — **Kubernetes**
+* 📊 Observability — **Actuator / Micrometer / Prometheus / Grafana**
+* 🔐 Authentication & Authorization — **Spring Security / JWT**
+
+---
+
+## 🧠 DSA — Daily Practice
+
+DSA is a continuous part of my routine.
+
+Currently practicing:
+
+* Arrays & Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack & Queue
+* Linked List
+* Binary Search
+* Recursion & Backtracking
+* Trees & BST
+* Heap / Priority Queue
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Time & Space Complexity
+
+**Goal:** Build strong problem-solving ability rather than simply memorizing solutions.
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+<p align="left">
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+</a>
+<a href="https://spring.io/projects/spring-security" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Security"/>
+</a>
+<a href="https://hibernate.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+</a>
+</p>
+
+### Database
+
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+</a>
+</p>
+
+### Microservices & Messaging
+
+<p align="left">
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+</a>
+</p>
+
+### Development & Tools
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+</p>
+
+### Frontend & Other Technologies
+
+<p align="left">
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+</p>
+
+---
+
+## 📚 What I'm Learning
+
+```text
+Java
+  │
+  ├── OOP & Collections
+  ├── DSA & Problem Solving
+  │
+  ▼
+Spring Boot
+  │
+  ├── REST APIs
+  ├── JPA / Hibernate
+  ├── PostgreSQL
+  └── Spring Security / JWT
+  │
+  ▼
+Microservices
+  │
+  ├── Eureka
+  ├── API Gateway
+  ├── OpenFeign
+  ├── Resilience4j
+  ├── Kafka
+  └── Redis
+  │
+  ▼
+DevOps & Cloud
+  │
+  ├── Docker
+  ├── Kubernetes
+  ├── Linux
+  └── Cloud Deployment
+  │
+  ▼
+System Design
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi29102004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi29102004&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ravi29102004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Competitive Programming & Practice
+
+<p align="center">
+
+<a href="https://leetcode.com/ravi620">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://codeforces.com/profile/ravi62067888b">
+<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.codechef.com/users/ravi62067888b">
+<img src="https://img.shields.io/badge/CodeChef-Programming-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/ravi-ranjan-768007237s">
+<img src="https://img.shields.io/badge/LinkedIn-Ravi%20Ranjan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ravi62067888b@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ravi29102004">
+<img src="https://img.shields.io/badge/GitHub-ravi29102004-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+```text
+☑ Strong Java Fundamentals
+☑ Spring Boot & REST APIs
+☑ PostgreSQL & JPA/Hibernate
+☑ Spring Security & JWT
+☑ Docker & Cloud Deployment
+☑ Fitness Monolith
+🚀 Fitness Microservices
+🚀 Kafka & Redis
+🚀 Kubernetes
+🚀 System Design
+🧠 Daily DSA Practice
+💼 Java Backend Internship / Software Engineer Role
+```
+
+---
+
+## 💡 My Engineering Philosophy
+
+> **Don't just learn a technology — build something with it.**
+
+> **Build the monolith. Understand the boundaries. Then break it into services.**
+
+---
+
+<h3 align="center">
+🚀 Building Backend Systems • 🧠 Solving Problems • 📚 Learning Every Day
+</h3>
